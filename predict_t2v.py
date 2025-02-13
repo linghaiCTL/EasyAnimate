@@ -43,7 +43,7 @@ teacache_threshold  = 0.08
 
 # Config and model path
 config_path         = "config/easyanimate_video_v5.1_magvit_qwen.yaml"
-model_name          = "models/Diffusion_Transformer/EasyAnimateV5.1-12b-zh-InP"
+model_name          = "models/EasyAnimate"
 
 # Choose the sampler in "Euler" "Euler A" "DPM++" "PNDM" "DDIM" "Flow"
 # EasyAnimateV1, V2 and V3 support "Euler" "Euler A" "DPM++" "PNDM"
